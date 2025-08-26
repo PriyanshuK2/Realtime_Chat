@@ -15,7 +15,6 @@ $(document).ready( () => {
 });
 
 
-// A base class is defined using the new reserved 'class' keyword
 class MainChat  {
 	// constructor
 	constructor () {
