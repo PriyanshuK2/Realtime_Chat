@@ -1,8 +1,3 @@
-/**
-* Author: Wilbert Muza
-* Version: 1.0.0
-* Signature: wmuza
-*/
 
 'use strict';
 
